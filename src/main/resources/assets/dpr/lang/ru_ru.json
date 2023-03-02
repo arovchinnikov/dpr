@@ -1,0 +1,14 @@
+{
+  "item_group.dpr.blocks": "Блоки: Dark Prince's Realm",
+  "item_group.dpr.items": "Предметы: Dark Prince's Realm",
+
+  "block.dpr.polished_obsidian": "Полированный обсидиан",
+  "block.dpr.polished_obsidian_stairs": "Ступеньки из полированного обсидиана",
+  "block.dpr.polished_obsidian_slab": "Плита из полированного обсидиана",
+  "block.dpr.obsidian_bricks": "Обсидиановые кирпичи",
+  "block.dpr.obsidian_brick_stairs": "Ступеньки из обсидианового кирпича",
+  "block.dpr.obsidian_brick_slab": "Плита из обсидианового кирпича",
+  "block.dpr.obsidian_chiseled_bricks": "Резные обсидиановые кирпичи",
+
+  "item.dpr.obsidian_brick": "Обсидиановый кирпич"
+}

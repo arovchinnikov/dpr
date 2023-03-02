@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dpr:block/polished_obsidian_slab"
+    },
+    "type=double": {
+      "model": "dpr:block/polished_obsidian"
+    },
+    "type=top": {
+      "model": "dpr:block/polished_obsidian_slab_top"
+    }
+  }
+}

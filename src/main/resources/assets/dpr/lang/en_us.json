@@ -1,0 +1,14 @@
+{
+  "item_group.dpr.blocks": "Blocks: Dark Prince's Realm",
+  "item_group.dpr.items": "Items: Dark Prince's Realm",
+
+  "block.dpr.polished_obsidian": "Polished Obsidian",
+  "block.dpr.polished_obsidian_stairs": "Polished Obsidian Stairs",
+  "block.dpr.polished_obsidian_slab": "Polished Obsidian Slab",
+  "block.dpr.obsidian_bricks": "Obsidian Bricks",
+  "block.dpr.obsidian_brick_stairs": "Obsidian Brick Stairs",
+  "block.dpr.obsidian_brick_slab": "Obsidian Brick Slab",
+  "block.dpr.obsidian_chiseled_bricks": "Obsidian Chiseled Bricks",
+
+  "item.dpr.obsidian_brick": "Obsidian Brick"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "dpr:block/obsidian_bricks",
+    "side": "dpr:block/obsidian_bricks",
+    "top": "dpr:block/obsidian_bricks"
+  }
+}
