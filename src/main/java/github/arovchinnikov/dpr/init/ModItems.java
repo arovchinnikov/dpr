@@ -17,16 +17,6 @@ public class ModItems {
 
     public static final RegistryObject<Item> OBSIDIAN_BRICK = item("obsidian_brick");
 
-    public static final RegistryObject<ForgeSpawnEggItem> RATMAN_SPAWN_EGG = REGISTRY.register(
-            "ratman_spawn_egg",
-            () -> new ForgeSpawnEggItem(
-                    ModEntityTypes.RATMAN,
-                    0x94e8d,
-                    0x3b3635,
-                    new Item.Properties()
-            )
-    );
-
     public static void block(RegistryObject<Block> block) {
         String blockName = block.getId().getPath();
 

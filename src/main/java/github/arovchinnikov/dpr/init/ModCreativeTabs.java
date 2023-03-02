@@ -27,7 +27,6 @@ public class ModCreativeTabs {
 
         if (event.getTab() == ITEMS_TAB) {
             event.accept(ModItems.OBSIDIAN_BRICK);
-            event.accept(ModItems.RATMAN_SPAWN_EGG);
         }
     }
 
